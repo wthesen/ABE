@@ -1,0 +1,8 @@
+wellbore uwi,report date,province,type,classification,flow substance,licensee at reporting,flow rate per day (m3),stabilized shut in pressure (kPa),source depth (kb) (m),ground water base (kb) (m),resolution date,reported resolution,original ba name,stabilized buildup pressure (kPa),stabilized gas flow rate per day (m3),stabilized liquid flow rate per day (L),h2s present,h2s ppm,test type
+100021905320W500,2004-02-10,AB,Vent Flow,Non Serious,Gas,NAL Resources Limited (0TM9),200.0,469.0,0.0,320.0,2007-05-03,Monitor As Required,NAL RESOURCES LIMITED,,0.0,,,,
+100021905320W500,2007-05-03,AB,Vent Flow,Serious,Gas,NAL Resources Limited (0TM9),1000.0,1000.0,649.5,426.4,2007-07-21,Repaired - SCVF/GM,NAL RESOURCES LIMITED,,0.0,,,,
+100022306319W500,1997-10-27,AB,Vent Flow,Non Serious,Gas,Pengrowth Corporation (0RA3),0.1,95.0,0.0,892.57,2011-12-29,Died Out,PENGROWTH CORPORATION,,0.0,,,,
+100071606420W500,2021-03-10,AB,Vent Flow,Non Serious,Gas,AlphaBow Energy Ltd. (A7H2),0.0,18.0,0.0,898.4,,,ALPHABOW ENERGY LTD.,,0.0,,,,
+100100306518W500,1997-10-27,AB,Vent Flow,Non Serious,Gas,Pengrowth Corporation (0RA3),0.0,0.0,0.0,756.6,2010-11-24,Died Out,PENGROWTH CORPORATION,,0.0,,,,
+100152205216W500,2016-11-04,AB,Vent Flow,Serious,Gas,Pengrowth Energy Corporation (A5R5),0.13,1542.0,0.0,600.0,2016-12-07,Died Out,PENGROWTH ENERGY CORPORATION,,0.0,,,,
+100152205216W500,2022-11-23,AB,Vent Flow,Serious,Crude Oil,AlphaBow Energy Ltd. (A7H2),313.0,365.0,0.0,613.0,2023-01-18,Wellhead Seal Leak,ALPHABOW ENERGY LTD.,,0.0,,,,
